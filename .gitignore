@@ -78,3 +78,8 @@ buildNumber.properties
 # Exclude maven wrapper
 !/.mvn/wrapper/maven-wrapper.jar
 
+.gitignore
+.idea/
+examplesspring.iml
+pom.xml
+src/
